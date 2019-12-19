@@ -30,11 +30,13 @@
 }
 
 .flying-cloud:nth-child(2) {
+    width: 25%;
     left: 24%;
 
 }
 
 .flying-cloud:nth-child(3) {
+    width: 18%;
     left: 33%;
     top: 25%;
 }
@@ -44,6 +46,7 @@
 }
 
 .flying-cloud:nth-child(5) {
+    width: 23%;
     top: 25%;
     z-index: 1;
 }
